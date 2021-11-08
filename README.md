@@ -1,8 +1,6 @@
 **INFO:**
 
-A sample project that demonstrates Nesting of Flatlist and usage of Tab navigation. It's also a simple replication of Spotify App (Some parts of It) in terms of UI.
-this project also uses the same JSON data (currently Static) that can be retrieved from the Public API of Spotify. Not this is more of a UI side with a little bit
-of Functions but nothing major such as API endpoint calls.
+A simple replication of Spotify App (Some parts of It) in terms of UI, that demonstrates Nesting of Flatlist and usage of Tab navigation, this is also my Go to template for React Native TypeScript (Funtional Components). this project also uses the same JSON data (currently Static) that can be retrieved from the Public API of Spotify. Note this is more of a UI focused with a little bit of Functions but nothing major such as API endpoint calls.
 
 **SOME IMPORTANT PACKAGES USED:**
 - *React Navigation v6*
