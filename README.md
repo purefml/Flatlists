@@ -8,14 +8,14 @@ of Functions but nothing major such as API endpoint calls.
 
 **For Native Cli:**
 
-*npm install / yarn install*
-*npx react-native-link* //This is for the Assets such as Fonts
+- *npm install / yarn install*
+- *npx react-native-link* //This is for the Assets such as Fonts
 
 **For Expo Users:**
 
-*install expo cli*
-*npm install*
-*expo start* 
+- *install expo cli*
+- *npm install*
+- *expo start* 
 
 
 **SCREENSHOTS**:
