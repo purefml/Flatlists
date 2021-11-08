@@ -4,6 +4,13 @@ A sample project that demonstrates Nesting of Flatlist and usage of Tab navigati
 this project also uses the same JSON data (currently Static) that can be retrieved from the Public API of Spotify. Not this is more of a UI side with a little bit
 of Functions but nothing major such as API endpoint calls.
 
+**SOME IMPORTANT PACKAGES USED:**
+- *React Navigation v6*
+- *React Bottom-Tabs v6*
+- *React Native screens v3*
+
+*other packages can be viewed in packages.json*
+
 **Clone and Run the following:**
 
 **For Native Cli:**
