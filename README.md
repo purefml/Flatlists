@@ -1,18 +1,24 @@
-Run the following:
+**INFO:**
+
+A sample project that demonstrates Nesting of Flatlist and usage of Tab navigation. It's also a simple replication of Spotify App (Some parts of It) in terms of UI.
+this project also uses the same JSON data (currently Static) that can be retrieved from the Public API of Spotify. Not this is more of a UI side with a little bit
+of Functions but nothing major such as API endpoint calls.
+
+**Clone and Run the following:**
 
 **For Native Cli:**
 
-*npm install / yarn install* & 
-*npx react-native-link*
+*npm install / yarn install*
+*npx react-native-link* //This is for the Assets such as Fonts
 
 **For Expo Users:**
 
-*install expo cli* & 
-*npm install* & 
+*install expo cli*
+*npm install*
 *expo start* 
 
 
-**SCREENSHOT**:
+**SCREENSHOTS**:
 
 ![Screenshot_1636337087](https://user-images.githubusercontent.com/87158420/140673266-e3cb9062-de52-4b2f-96e3-eda5f6e8dde1.png)
 ![Screenshot_1636337120](https://user-images.githubusercontent.com/87158420/140673288-c778f353-161e-4689-8c11-3efff90afb90.png)
